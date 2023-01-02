@@ -1,16 +1,18 @@
-### Hi there 👋
+## 🏫 Information
+- 마산서중학교 졸업
+- 마산중앙고등학교 졸업
+- 세종대학교 지능기전공학부 스마트기기공학전공 3학년 재학 중 
 
-<!--
-**dysonny/dysonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📨 Email
+denny221@naver.com
+denny2216612@gmail.com
+denny221@sju.ac.kr
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 SNS List
+- facebook
+- instagram
+- 
+## ⚒️ Tech Stack
+- Java
+- Python
+- Pytorch
