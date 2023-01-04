@@ -6,9 +6,9 @@
 <br>
 
 ## 📨 Email
-denny221@naver.com <br>
-denny2216612@gmail.com <br>
-denny221@sju.ac.kr
+- denny221@naver.com <br>
+- denny2216612@gmail.com <br>
+- denny221@sju.ac.kr
 
 ## 👨‍💻 SNS List
 - facebook
