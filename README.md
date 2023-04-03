@@ -1,15 +1,31 @@
-## 🏫 Information
+### 🏫 Information
+---
 
-- 마산중앙고등학교 졸업
-- 세종대학교 지능기전공학부 스마트기기공학전공 재학 중 
+Sejong University, Seoul, Republic of Korea, 2018.02 ~ 
+ - B.S. Student in Artificial Intelligence Mechatronics Engineering
 
+Masan Joonang High School, Gyeongsangnam-do Changwon, Republic of Korea, 2015.02 ~ 2018.02
 
-## 📨 Email
+---
+### Interest
+ - Human-AI Interaction
+ - Recommend System
+ 
+---
+### Qualification
+ - AdSP
+ - SQL Developer
+ 
+---
+
+### 📨 Email
 - denny221@naver.com <br>
 - denny2216612@gmail.com <br>
 - denny221@sju.ac.kr
 
-## 👨‍💻 SNS List
+---
+
+### 👨‍💻 SNS List
 <a href="https://www.facebook.com/profile.php?id=100005781247894">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Instagram&logoColor=white&link=https://yeonyeon.tistory.com"/>
 </a>
