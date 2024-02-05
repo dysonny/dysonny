@@ -1,31 +1,31 @@
-### 🏫 Information
+## 🏫 Information
 ---
 
-Sejong University, Seoul, Republic of Korea, 2018.02 ~ 
+Sejong University, Seoul, Republic of Korea, 2018.02 ~ 2024.02
  - B.S. Student in Artificial Intelligence Mechatronics Engineering
-
-Masan Joonang High School, Gyeongsangnam-do Changwon, Republic of Korea, 2015.02 ~ 2018.02
+ - IDSL Lab (Industrial Data Science Lab) 2023.09 ~ 
 
 ---
-### Interest
- - Human-AI Interaction
- - Recommend System
+## Interest
+ - Natural Language Processing
+ - Text Summarization
+ - Text Augmentation
  
 ---
-### Qualification
+## Qualification
  - AdSP
  - SQL Developer
  
 ---
 
-### 📨 Email
+## 📨 Email
 - denny221@naver.com <br>
 - denny2216612@gmail.com <br>
 - denny221@sju.ac.kr
 
 ---
 
-### 👨‍💻 SNS List
+## 👨‍💻 SNS List
 <a href="https://www.facebook.com/profile.php?id=100005781247894">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Instagram&logoColor=white&link=https://yeonyeon.tistory.com"/>
 </a>
